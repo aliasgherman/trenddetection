@@ -1,2 +1,4 @@
-# trenddetection
-Display any significant trend changes and make charts for all numeric values in a csv file.
+# Usage and Explanation
+
+Please read https://www.linkedin.com/pulse/automated-trend-variation-detection-ali-asgher-mansoor-habiby/
+
